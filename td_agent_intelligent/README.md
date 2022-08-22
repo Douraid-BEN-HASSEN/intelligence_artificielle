@@ -1,13 +1,4 @@
-<<<<<<< HEAD
 # TP Agents intelligents
-=======
-<center>TP Agents intelligents</center>
-Exercice 1:
-Résultats : 
- 
-Courbe d’apprentissage:
- 
->>>>>>> 3f652738f65216b6af684306f05c74afbff7050e
 
 ## Exercie 1 :
 
