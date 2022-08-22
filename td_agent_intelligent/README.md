@@ -1,4 +1,4 @@
-TP Agents intelligents
+<center>TP Agents intelligents</center>
 Exercice 1:
 Résultats : 
  
