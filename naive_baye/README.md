@@ -3,6 +3,7 @@ Implémentation de l'algorithme **NAIVE BAYE** dans le cadre d'un traitement de 
 
 ![1](img/intro.JPG)
 
+# Traitement
 ### --- Preprocessing ---
 ![1](img/1.PNG)
 
