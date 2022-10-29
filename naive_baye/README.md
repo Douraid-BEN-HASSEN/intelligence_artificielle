@@ -12,7 +12,7 @@
 ![5](img/4.2.PNG)
 
 # Graphe
-![6](img/5.PNG)
+![6](img/5.png)
 
 # Conclusion
 La precision est relativement basse, l'accuracy & le score F1 aussi, mais ils sont assez proche.
