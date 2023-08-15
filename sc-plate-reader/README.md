@@ -16,7 +16,6 @@ Dans le cadre de mon alternance chez mediatouch, j'ai créé une Intelligence Ar
 
 ## Résultats
 - demo : https://www.youtube.com/watch?v=25r-kjp4JbQ
-
 ![](result_1.jpg)
 ![](result_2.jpg)
 ![](result_3.jpg)
